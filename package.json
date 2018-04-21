@@ -1,0 +1,19 @@
+{
+  "name": "quasar",
+  "version": "1.0.0",
+  "description": "Game made using PhaserJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-nugent/Quasar.git"
+  },
+  "author": "Brian Nugent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-nugent/Quasar/issues"
+  },
+  "homepage": "https://github.com/b-nugent/Quasar#readme"
+}
